@@ -1,3 +1,4 @@
+![Uploading Screenshot 2026-10-03 232152.png…]()
 # Rift
 
 Rift is a Windows Luau editor with local script execution, syntax checking, a script library, and workspace tools.
