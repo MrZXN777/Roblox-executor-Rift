@@ -1,4 +1,5 @@
-# Rift
+<img width="1257" height="692" alt="Screenshot 2026-10-03 232152" src="https://github.com/user-attachments/assets/96214a29-94fe-44f7-9ded-1500c2693de0" />
+# Rift executor UI
 
 Rift is a Windows desktop Luau workspace with an editor, local script execution, syntax checking, a script library, and tools for organizing your work.
 
